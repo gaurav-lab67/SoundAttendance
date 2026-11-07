@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "832317838793",
+    "firebase_url": "https://soundattendance-default-rtdb.firebaseio.com",
+    "project_id": "soundattendance",
+    "storage_bucket": "soundattendance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832317838793:android:457aae91203ac9ed148418",
+        "android_client_info": {
+          "package_name": "com.example.soundattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRtnO7pB5FqYTPI2lgkkVgowVTww-_64U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
